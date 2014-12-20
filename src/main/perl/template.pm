@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 package template;
 ##############################################################################
 use Getopt::Long;               # for command-line options parsing

@@ -1,4 +1,4 @@
-#!/usr/intel/pkgs/tcl-tk/8.5.8-64/bin/tclsh
+#!/usr/bin/env tclsh
 package require cmdline;        # for command-line options parsing
 ##############################################################################
 set this_package_name "template"; # needs to match name of this file
